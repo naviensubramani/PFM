@@ -9,7 +9,7 @@
     <repositories>
         <repository>
             <id>android-skd-localrepo</id>
-            <url>file://${env.ANDROID_HOME}/extras/android/m2repository</url>
+            <url>file://${env.ANDROID_HOME}/extras/android/m2repository/</url>
         </repository>
     </repositories>
     <dependencies>
@@ -36,6 +36,16 @@
             <artifactId>gridlayout-v7</artifactId>
             <version>18.0.0</version>
             <type>aar</type>
+        </dependency>
+        <dependency>
+            <groupId>com.j256.ormlite</groupId>
+            <artifactId>ormlite-core</artifactId>
+            <version>4.46</version>
+        </dependency>
+        <dependency>
+            <groupId>com.j256.ormlite</groupId>
+            <artifactId>ormlite-android</artifactId>
+            <version>4.46</version>
         </dependency>
         <dependency>
             <groupId>com.actionbarsherlock</groupId>
