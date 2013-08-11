@@ -8,6 +8,8 @@
     <string name="list_transactions">List Transactions</string>
     <string name="amount">Amount</string>
     <string name="amount_hint">Eg 34.56</string><string name="hint_note">Note (optional)</string>
+    <string name="today">Today</string>
+    <string name="tags">Tags</string>
     <string-array name="transaction_type_lables">
         <item>Spent</item>
         <item>Earned</item>

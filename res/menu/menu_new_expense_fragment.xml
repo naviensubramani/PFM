@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:icon="@drawable/cross"
+            android:id="@+id/cancel"
+            android:showAsAction="always"/>
+    <item
+            android:icon="@drawable/tick"
+            android:id="@+id/save"
+            android:showAsAction="always"/>
+
+</menu>
