@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/new_expense"
+            android:title="@string/new_expense"
+            android:showAsAction="ifRoom"
+            android:icon="@drawable/plus"
+            />
+    <item android:id="@+id/list_transcations"
+          android:title="@string/list_transactions"
+          android:icon="@drawable/list"
+          android:showAsAction="ifRoom"/>
+</menu>

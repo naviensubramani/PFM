@@ -4,5 +4,14 @@
     <string name="app_name">PFM</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="new_expense">New Expense</string>
+    <string name="list_transactions">List Transactions</string>
+    <string name="amount">Amount</string>
+    <string name="amount_hint">Eg 34.56</string><string name="hint_note">Note (optional)</string>
+    <string-array name="transaction_type_lables">
+        <item>Spent</item>
+        <item>Earned</item>
+    </string-array>
+
 
 </resources>
