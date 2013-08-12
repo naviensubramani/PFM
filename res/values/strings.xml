@@ -9,7 +9,7 @@
     <string name="amount">Amount</string>
     <string name="amount_hint">Eg 34.56</string><string name="hint_note">Note (optional)</string>
     <string name="today">Today</string>
-    <string name="tags">Tags</string>
+    <string name="tags">Tags</string><string name="save_and_add_new"><![CDATA[Save & Add new]]></string>
     <string-array name="transaction_type_lables">
         <item>Spent</item>
         <item>Earned</item>
